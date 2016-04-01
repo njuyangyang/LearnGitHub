@@ -61,3 +61,5 @@ origin	git@github.com:njuyangyang/LearnGitHub.git (push)
   $git diff [path1] [path2]
   ```
 ## now you can push it to your repo and then pull request!!!!
+
+ABCDEFG
