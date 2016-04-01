@@ -57,6 +57,8 @@ origin	git@github.com:njuyangyang/LearnGitHub.git (push)
   ```
   
   If some problem happend. your should change fix the conflicts firstly in your local. 
+  
+  Woshimeinv
   ```sh
   $git diff [path1] [path2]
   ```
